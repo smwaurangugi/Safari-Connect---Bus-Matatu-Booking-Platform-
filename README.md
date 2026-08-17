@@ -5,9 +5,9 @@ This project involved cleaning and structuring the raw booking data, building a 
 
 The findings in this report are drawn directly from 248 completed bookings across 10 routes and 8 drivers, spanning January 2024 to early January 2025, and are intended to support the board presentation on route strategy, driver recognition, and cancellation reduction.
 
-## Dashboard Overview
+## Dashboard Preview
 
-![Safari Connect Dashboard preview](Dashboard\Safari-Connect_Dashboard.png)
+![Safari Connect Dashboard preview]((Dashboard/Safari-Connect_Dashboard.png))
 
 ## Revenue & Growth
 
