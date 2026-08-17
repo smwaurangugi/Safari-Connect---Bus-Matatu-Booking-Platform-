@@ -7,7 +7,7 @@ The findings in this report are drawn directly from 248 completed bookings acros
 
 ## Dashboard Preview
 
-![Safari Connect Dashboard preview]((Dashboard/Safari-Connect_Dashboard.png))
+![Safari Connect Dashboard preview](Dashboard/Safari-Connect_Dashboard.png)
 
 ## Revenue & Growth
 
